@@ -1,4 +1,4 @@
-# TIMED CODING QUIZ :
+# TIMED CODING QUIZ :https://aldo1998-hb.github.io/timed-quiz/
   This is a coding quiz with a timer.
 
 ## rules:
